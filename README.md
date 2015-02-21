@@ -1,6 +1,3 @@
-# Ruby on Rails Tutorial: sample application
+# Bare Bones White Whale
 
-This is the sample application for the
-[*Ruby on Rails Tutorial:
-Learn Web Development with Rails*](http://www.railstutorial.org/)
-by [Michael Hartl](http://www.michaelhartl.com/).
+This is an attempt at a barebones white whale site.
